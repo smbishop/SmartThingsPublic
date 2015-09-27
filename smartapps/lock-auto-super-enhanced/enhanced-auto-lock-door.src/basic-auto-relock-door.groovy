@@ -1,5 +1,5 @@
 definition(
-    name: "Enhanced Auto Lock Door",
+    name: "Basic Auto Re-Lock Door",
     namespace: "Lock Auto Super Enhanced",
     author: "Arnaud",
     description: "Automatically locks a specific door after X minutes.",
